@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 城市 Controller 实现 Restful HTTP 服务
  *
- * Created by bysocket on 07/02/2017.
+ *
  */
 @RestController
 public class CityRestController {
